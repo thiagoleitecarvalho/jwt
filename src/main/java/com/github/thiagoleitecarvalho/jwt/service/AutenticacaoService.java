@@ -27,7 +27,7 @@ public class AutenticacaoService {
     /**
      * Chave secreta do cliente para geração do token.
      */
-    private static final String SENHA = "Bl**[CO$<Do@";
+    private static final String SENHA = "%RDiwL@^i|{W";
 
     /**
      * Executa a autenticação de um cliente.
