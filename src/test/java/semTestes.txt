@@ -1,0 +1,1 @@
+Por ser uma aplicação simples de exemplo, testes não foram codificados.
