@@ -5,3 +5,11 @@ Em 18/06/2025 ocorreu a live sobre JWT. Nesta foram apresentados conceitos sobre
 # Apresentação
 
 O PDF da apresentação está na raiz do projeto: JWT.pdf
+
+# Aplicação
+
+A aplicação foi feita com SpringBoot 3.5.0, utilizando apenas o stater-web. Além disto usa-se o Lombok e as dependencias para jwt. A versão do java é 21. Não foi configurado o Swagger. O Postman deve ser utilizado para testes.
+
+# Funcionamento
+
+Primeiro deve-se solicitar a criação do token pela url <http://localhost:8080/auth> via _HTTP Post_. No *body* devem ser passados 2 parâmetros: cliente com valor **XPTO** e senha com valor **%RDiwL@^i|{W**. Desta forma o token deve ser criado e retronado. Após isso, o mesmo deve ser configurado no 
