@@ -4,4 +4,4 @@ Em 18/06/2025 ocorreu a live sobre JWT. Nesta foram apresentados conceitos sobre
 
 # Apresentação
 
-O PDF da apresentação: 
+O PDF da apresentação está na raiz do projeto: JWT.pdf
