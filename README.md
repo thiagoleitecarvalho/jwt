@@ -8,7 +8,7 @@ O PDF da apresentação está em /docs/JWT.pdf
 
 # Aplicação
 
-A aplicação foi feita com SpringBoot 3.5.0, utilizando apenas o stater-web. Além disto usa-se o Lombok e as dependencias para jwt. A versão do java é 21. Não foi configurado o Swagger. O Postman deve ser utilizado para testes.
+A aplicação foi feita com SpringBoot 3.5.0, utilizando apenas o stater-web. Além disto, usa-se o Lombok e as dependencias para jwt. A versão do jJava é 21. Não foi configurado o Swagger. O Postman deve ser utilizado para testes.
 
 # Funcionamento
 
