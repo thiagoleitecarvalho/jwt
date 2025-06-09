@@ -18,3 +18,11 @@ Primeiro deve-se solicitar a criação do token pela url <http://localhost:8080/
 
 Caso o token expire, seja inválido ou não tenha sido fornecido, uma mensagem informativa é exibida.
 
+# Links úteis
+
+https://dinochiesa.github.io/jwt/
+
+https://iotools.cloud/pt/tool/rsa-key-generator/
+
+https://datatracker.ietf.org/doc/html/rfc7519
+
