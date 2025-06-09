@@ -14,7 +14,7 @@ A aplicação foi feita com SpringBoot 3.5.0, utilizando apenas o stater-web. Al
 
 # Funcionamento
 
-Primeiro deve-se solicitar a criação do token pela url <http://localhost:8080/auth> via _HTTP Post_. No *body* devem ser passados 2 parâmetros: *cliente* com valor **XPTO** e *senha* com valor **%RDiwL@^i|{W**. Estes devem ser informados via _x-www-form-urlencoded_. Desta forma o token deve ser criado e retornado. Após isso, o mesmo deve ser configurado no Authorization, para assim ser enviado no header da requisição para a url <http://localhost:8080/fazerAlgo> via _HTTP GET_. Desta forma, uma mensagem de que o recurso foi acessado deve ser exibida. A imagem a seguir itustra este mecanismo.
+Primeiro deve-se solicitar a criação do token pela url <http://localhost:8080/auth> via _HTTP Post_. No *body* devem ser passados 2 parâmetros: *cliente* com valor **XPTO** e *senha* com valor **%RDiwL@^i|{W**. Estes devem ser informados via _x-www-form-urlencoded_. Desta forma o token deve ser criado e retornado. Após isso, o mesmo deve ser configurado no Authorization, para assim ser enviado no header da requisição para a url <http://localhost:8080/fazerAlgo> via _HTTP GET_. Desta forma, uma mensagem de que o recurso foi acessado deve ser exibida. A imagem a seguir ilustra este mecanismo.
 
 ![{w=100%}](docs/jwt.png)
 
