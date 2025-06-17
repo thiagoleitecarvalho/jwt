@@ -44,6 +44,7 @@ public final class JwtUtil {
         Date dataExpiracaoToken = new Date(dataCriacaoToken.getTime() + 60000); // dataCriacaoToken + 60s
 
         return Jwts.builder()
+                .setHeaderParam("typ", "JWT")
                 .setSubject(cliente)
                 .setIssuer("liveJWT")
                 .setIssuedAt(dataCriacaoToken)
