@@ -28,3 +28,4 @@ https://iotools.cloud/pt/tool/rsa-key-generator/
 
 https://datatracker.ietf.org/doc/html/rfc7519
 
+https://avera.com.br/blog/jwt-como-usar-algoritmos
